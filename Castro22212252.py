@@ -41,7 +41,7 @@ print(f"Función de transferencia del sistema: {sys}")
 print (f"Las raíces son: {La[0]} y {La[1]}")
 
 # Componentes del controlador
-kI = 1879.67386779355
+kI = 1890.33392975955
 Cr = 1E-6
 Re = 1/(kI*Cr)
 print (f"El valor de la capcitancia propuesta de Cr es de {Cr} Faradios.")
@@ -134,4 +134,5 @@ plt.legend(bbox_to_anchor = (0.5,-0.2),loc = 'center', ncol = 3,
            fontsize = 9, frameon = True)
 plt.show()
 fg4.savefig('sine_python.pdf',bbox_inches = 'tight')
+
 
