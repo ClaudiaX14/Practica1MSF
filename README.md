@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información del estudiante
+## Información de la estudiante
 Claudia X. Castro \ [22212252]; l22212252@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
